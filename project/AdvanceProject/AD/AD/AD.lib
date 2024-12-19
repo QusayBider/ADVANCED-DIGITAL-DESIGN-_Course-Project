@@ -1,0 +1,134 @@
+timestamp=1734623405925
+
+[~A]
+D:/My_Designs/AdvanceProject/AD/src/main.v=0*1133402*1136061
+LastVerilogToplevel=Signed_Unsigned_Comparator_tb
+ModifyID=235
+Version=74
+d:/My_Designs/AdvanceProject/AD/src/main.v=0*142856*146075
+
+[~MFT]
+0=10|0AD.mgf|1136061|744238
+1=12|1AD.mgf|4437101|4401654
+3=24|3AD.mgf|2273331|2250762
+
+[$root]
+A/$root=22|||1*4421277
+BinW64/$root=3*2266084
+SLP=3*2266199
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216f2df7469f16bfef9a913c1ae2fe633db
+
+[Signed_Unsigned_Comparator]
+A/Signed_Unsigned_Comparator=22|../src/main.v|28|1*4424007
+BinW64/Signed_Unsigned_Comparator=3*2267478
+R=../src/main.v|28
+SLP=3*2268360
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63899ab4541b5e8abf1f090b864308ecd9ce278533efcf831e4a149338aa2d608aeca35827aa89e6548f19ad5f97f801
+
+[Signed_Unsigned_Comparator_tb]
+A/Signed_Unsigned_Comparator_tb=22|../src/main.v|178|1*4437101
+BinW64/Signed_Unsigned_Comparator_tb=3*2271081
+R=../src/main.v|178
+SLP=3*2273331
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63899ab4541b5e8abf1f090b864308eca26bcf2a3f1fae9eee240100293bac29978e4764cb028642bdb8a08ecc7a0d17d9a87193a9b2f77a5cdd711267b14731
+
+[Signed_Unsigned_Comparator_tbW]
+A/Signed_Unsigned_Comparator_tbW=22|../src/main.v|398|1*3794225
+BinW64/Signed_Unsigned_Comparator_tbW=3*1959171
+R=../src/main.v|398
+SLP=3*1960627
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63899ab4541b5e8abf1f090b864308ecdedd71a904a23a0c28891e3959bd758acba255b60dfa1ec30e462c289ad93d392fcea48542d4e386f6a5f90931dd5b60
+
+[Three_bit_register_out]
+A/Three_bit_register_out=22|../src/main.v|15|1*4422851
+BinW64/Three_bit_register_out=3*2266874
+R=../src/main.v|15
+SLP=3*2267259
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5e1546ae12c8b7ce118a0d50fd5658b49c924d28a24e6b3e2a2ec84332dc97be7b056d92f4a7e5efc1e6ed52ffe38524
+
+[Twelve_bit_register_in]
+A/Twelve_bit_register_in=22|../src/main.v|2|1*4421699
+BinW64/Twelve_bit_register_in=3*2266267
+R=../src/main.v|2
+SLP=3*2266653
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d332369b71ed6a0bc106d0cc5bcbcad24649af86e650b95d59d31db684abb5dc58d0065ae842301958b485d3951c5350
+
+[Unsigned_comparator]
+A/Unsigned_comparator=22|../src/main.v|76|1*4426671
+BinW64/Unsigned_comparator=3*2269134
+R=../src/main.v|76
+SLP=3*2269538
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ba08f391b93e2744bb5560f1cb7bcc403824e0e4dafc9073900ab9cdddac22a6dad5d454da4b5d9ef614a8bc47b95231
+
+[Unsigned_comparatorW]
+A/Unsigned_comparatorW=22|../src/main.v|324|1*3785490
+BinW64/Unsigned_comparatorW=3*1955950
+R=../src/main.v|324
+SLP=3*1957216
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ba08f391b93e2744bb5560f1cb7bcc406afde98b9e1486ae5341689d6ce40a282a11ef8ff2b44a4522b7d29903b69b88
+
+[Unsigned_comparator_tb]
+A/Unsigned_comparator_tb=22|../src/main.v|238|1*3783959
+BinW64/Unsigned_comparator_tb=3*1953670
+R=../src/main.v|238
+SLP=3*1954998
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ba08f391b93e2744bb5560f1cb7bcc40d9bf1584bb854e9a166e6fec65461a1abfd3dd28a098a7d7c2fb5e3fa4dac898
+
+[Unsigned_comparator_tbW]
+A/Unsigned_comparator_tbW=22|../src/main.v|336|1*214742
+BinW64/Unsigned_comparator_tbW=3*125139
+R=../src/main.v|336
+SLP=3*126337
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ba08f391b93e2744bb5560f1cb7bcc409cdc1af3f845694459b14304191af2b126527262ddaa47cb266f3a3c4d9b973afa63eb930ec34ce715c7eee3f6d5a8a9
+
+[comparator_6bit]
+A/comparator_6bit=22|../src/main.v|248|1*1223472
+BinW64/comparator_6bit=3*672510
+R=../src/main.v|248
+SLP=3*673558
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|eb80e035620ef64f5d30bc6ea85ae843669199fce01c4df6bf73fc97c9c1b30acb09c4ed440f4f15243e8ac17226a2a6
+
+[comparator_tb]
+A/comparator_tb=22|../src/main.v|242|1*3077831
+BinW64/comparator_tb=3*1608719
+R=../src/main.v|242
+SLP=3*1609770
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4fc48fb11413961fef54f8c10737be2b372807f9ed580dd4a3c24efff3ddeb5560a3b044d2ab08338cd3c40f0d99d9f0
+
+[twelve_bit_register]
+A/twelve_bit_register=22|../src/main.v|2|1*2368774
+BinW64/twelve_bit_register=3*1256630
+R=../src/main.v|2
+SLP=3*1257013
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|478933c1600110cedd786092ae24f6d4feff4605cd14905bd45a865934c6207f6af16168627da9b15e68247111307ef9
+
+[twelve_bit_register_in]
+A/twelve_bit_register_in=22|../src/main.v|2|1*4195585
+BinW64/twelve_bit_register_in=3*2149688
+R=../src/main.v|2
+SLP=3*2150074
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|478933c1600110cedd786092ae24f6d4befc9f6e13e6e45058f604beb3f4828954a84542c256a35bd02357260baa01f6
+
+[twelve_bit_register_out]
+A/twelve_bit_register_out=22|../src/main.v|15|1*4196737
+BinW64/twelve_bit_register_out=3*2150294
+R=../src/main.v|15
+SLP=3*2150680
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|478933c1600110cedd786092ae24f6d4cbdc088ebb6ebffaad68578d776e4f8726527262ddaa47cb266f3a3c4d9b973aaa76919a71b3ecd6e5ad316c03d95197
+
+[~U]
+$root=12|0*1131746|
+Signed_Unsigned_Comparator=12|0*1132557|
+Signed_Unsigned_Comparator_tb=12|0*1133157||0x10
+Signed_Unsigned_Comparator_tbW=12|0*961525||0x10
+Three_bit_register_out=12|0*1132323|
+Twelve_bit_register_in=12|0*1132088|
+Unsigned_comparator=12|0*1132881|
+Unsigned_comparatorW=12|0*961275|
+Unsigned_comparator_tb=12|0*961039||0x10
+Unsigned_comparator_tbW=12|0*41283||0x10
+comparator_6bit=12|0*279925|
+comparator_tb=12|0*777941||0x10
+twelve_bit_register=12|0*592350|
+twelve_bit_register_in=12|0*1070592|
+twelve_bit_register_out=12|0*1070827|
