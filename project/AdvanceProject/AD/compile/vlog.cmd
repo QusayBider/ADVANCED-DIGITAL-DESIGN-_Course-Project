@@ -1,1 +1,0 @@
--o D:/My_Designs/AdvanceProject/AD/compile -lc D:/My_Designs/AdvanceProject/library.cfg -fl D:/My_Designs/AdvanceProject/AD/projlib.cfg -pli "D:/HDL/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work AD D:/My_Designs/AdvanceProject/AD/src/main.v 
