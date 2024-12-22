@@ -1,0 +1,61 @@
+timestamp=1734906590609
+
+[~A]
+LastVerilogToplevel=Signed_Unsigned_Comparator_tb
+ModifyID=19
+Version=74
+c:/My_Designs/Project_Ad/Project/src/main.v=0*83464*86012
+
+[~MFT]
+0=10|0Project.mgf|86012|54128
+1=12|1Project.mgf|329642|313848
+3=24|3Project.mgf|157879|150801
+
+[$root]
+A/$root=22|||1*313848
+BinW64/$root=3*150801
+SLP=3*150916
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c921667316e8865122864f654f3914ccfeea9
+
+[Signed_Unsigned_Comparator]
+A/Signed_Unsigned_Comparator=22|../src/main.v|29|1*316548
+BinW64/Signed_Unsigned_Comparator=3*152192
+R=../src/main.v|29
+SLP=3*153074
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63899ab4541b5e8abf1f090b864308ecd9ce278533efcf831e4a149338aa2d601610629de78da2de6e905a17658b32fd
+
+[Signed_Unsigned_Comparator_tb]
+A/Signed_Unsigned_Comparator_tb=22|../src/main.v|180|1*329642
+BinW64/Signed_Unsigned_Comparator_tb=3*155795
+R=../src/main.v|180
+SLP=3*157879
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63899ab4541b5e8abf1f090b864308eca26bcf2a3f1fae9eee240100293bac29978e4764cb028642bdb8a08ecc7a0d174f841d9c08c7bfa4932b135ee2d4c094
+
+[Three_bit_register_out]
+A/Three_bit_register_out=22|../src/main.v|16|1*315392
+BinW64/Three_bit_register_out=3*151590
+R=../src/main.v|16
+SLP=3*151975
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5e1546ae12c8b7ce118a0d50fd5658b49c924d28a24e6b3e2a2ec84332dc97be3e479f5b6e602fff67496035834ea037
+
+[Twelve_bit_register_in]
+A/Twelve_bit_register_in=22|../src/main.v|3|1*314238
+BinW64/Twelve_bit_register_in=3*150984
+R=../src/main.v|3
+SLP=3*151370
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d332369b71ed6a0bc106d0cc5bcbcad24649af86e650b95d59d31db684abb5dc001f2acadc8318e79cbb9e6dcae12c95
+
+[Unsigned_comparator]
+A/Unsigned_comparator=22|../src/main.v|77|1*319212
+BinW64/Unsigned_comparator=3*153848
+R=../src/main.v|77
+SLP=3*154252
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ba08f391b93e2744bb5560f1cb7bcc403824e0e4dafc9073900ab9cdddac22a6f2a623b0540d434b446c52e933a76de6
+
+[~U]
+$root=12|0*81920|
+Signed_Unsigned_Comparator=12|0*82619|
+Signed_Unsigned_Comparator_tb=12|0*83219||0x10
+Three_bit_register_out=12|0*82385|
+Twelve_bit_register_in=12|0*82150|
+Unsigned_comparator=12|0*82943|
